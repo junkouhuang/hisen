@@ -128,7 +128,7 @@ a:hover{ color:#2687eb; }
 .inside-left ul li:hover, .inside-left ul li.on{ padding-left:30px; color:#fff; background:#2687eb;}
 
 .inside-right{ width:750px; margin-top:13px; margin-right:40px; float:right;}
-.inside-right .top{ height:46px; padding-bottom:8px; background:url(../images/about_03.jpg) bottom repeat-x; }
+.inside-right .top{ height:46px; padding-bottom:8px; background:url(images/about_03.jpg) bottom repeat-x; }
 .inside-right h2.tit{ display:inline-block; line-height:46px; font-size:18px; color:#2687eb; float:left;}
 
 .path{ display:inline-block; padding-top:14px; line-height:30px; color:#999; float:right;}
